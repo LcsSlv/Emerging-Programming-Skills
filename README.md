@@ -1,4 +1,4 @@
-# Data Science Certificate Project
+# Data Analyst Certificate Project
 
 This project serves as the final project to complete my professional Data Analyst certificate from IBM. 
 It encompasses a collection of Jupyter Notebooks, each focusing on different aspects of data science.
