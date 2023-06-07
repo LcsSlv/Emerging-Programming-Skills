@@ -23,22 +23,17 @@ This project aims to analyze emerging programming skills and identify future ski
 - IBM Cognos Analytics account
 
 ## Notebooks
-- [Notebook 1: Collecting Launch Data Through API](https://github.com/LcsSlv/RocketLandingPredictor/blob/main/Launch%20Data%20Through%20API%20Notebook%20(1).ipynb)
-- [Notebook 2: Collecting Launch Data Through Web Scraping](https://github.com/LcsSlv/RocketLandingPredictor/blob/main/Launch%20Data%20Through%20Web%20Scraping%20Notebook.ipynb)
-- [Notebook 3: Data Wrangling](https://github.com/LcsSlv/RocketLandingPredictor/blob/main/Data%20Wrangling%20%20Notebook.ipynb)
-- [Notebook 4: EDA with SQL](https://github.com/LcsSlv/RocketLandingPredictor/blob/main/EDA%20of%20Launch%20Data%20with%20SQL.ipynb)
-- [Notebook 5: EDA with Visualization](https://github.com/LcsSlv/RocketLandingPredictor/blob/main/EDA%20of%20Launch%20Data%20with%20Visualization.ipynb)
-- [Notebook 6: Launch Site Analysis with Folium](https://nbviewer.org/github/LcsSlv/RocketLandingPredictor/blob/main/Launch%20Site%20Analysis%20with%20Folium.ipynb)
-- [Notebook 7: Launch Site Analysis with Dash(Dashboard)](https://github.com/LcsSlv/RocketLandingPredictor/blob/main/SpaceX%20Dash%20App.py)
-- [Notebook 8: Machine Learning Selection](https://github.com/LcsSlv/RocketLandingPredictor/blob/main/Machine%20Learning%20Prediction.ipynb)
+- [Notebook 1: Exploring Data Set](https://github.com/LcsSlv/Emerging-Programming-Skills/blob/main/M1ExploreDataSet-lab.ipynb)
+- [Notebook 2: Data Wrangling](https://github.com/LcsSlv/Emerging-Programming-Skills/blob/main/M2DataWrangling-lab.ipynb)
+- [Notebook 3: EDA](https://github.com/LcsSlv/Emerging-Programming-Skills/blob/main/M3ExploratoryDataAnalysis-lab.ipynb)
+- [Notebook 4: Data Visualization](https://github.com/LcsSlv/Emerging-Programming-Skills/blob/main/M4DataVisualization-lab.ipynb)
+- [Notebook 5: IBM Cognos Dashboard](https://github.com/LcsSlv/Emerging-Programming-Skills/blob/main/dashboard.pdf)
+- [Notebook 6: Project Apresentation](https://github.com/LcsSlv/Emerging-Programming-Skills/blob/main/Capstone%20Apresentation.pdf)
 
 Feel free to explore each notebook to gain insights into the data science techniques and methodologies used throughout the project.
 
 ## Requirements
-To run the notebooks locally, ensure you have the necessary dependencies installed. You can refer to the requirements.txt file for the specific packages and versions required.
-
-## License
-This project is licensed under the [MIT License](link_to_license_file). You are free to modify and adapt the code according to your needs.
+To run the notebooks locally, ensure you have the necessary dependencies installed.
 
 For any questions or inquiries, please contact [Lucas Silva](mailto:lcsslv.0107@gmail.com).
 
